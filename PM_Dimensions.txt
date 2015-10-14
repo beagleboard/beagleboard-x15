@@ -1,0 +1,5 @@
+Dy = 3985 MIL
+Dx = 4400 MIL (without snap off tabs)
+Dx = 5400 MIL (with snap off tabs)
+
+12 layers
